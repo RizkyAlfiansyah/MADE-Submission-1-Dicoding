@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">MADE-Submission-1</string>
+    <string name="lorem">lorem</string>
+
+    <string-array name="data_title_movie">
+        <item>Avengers : Infinity War</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Bumblebee</item>
+        <item>Venom</item>
+        <item>A Star Is Born </item>
+        <item>Mortal Engines</item>
+        <item>Aquaman</item>
+        <item>Deadpool 2</item>
+        <item>Joker</item>
+        <item>Creed II</item>
+    </string-array>
+
+    <array name="data_image_movie">
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_venom</item>
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_mortalengine</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_joker</item>
+        <item>@drawable/poster_creed</item>
+    </array>
+
+    <string-array name="data_rating">
+        <item>83 %</item>
+        <item>80 %</item>
+        <item>65 %</item>
+        <item>66 %</item>
+        <item>75 %</item>
+        <item>61 %</item>
+        <item>68 %</item>
+        <item>75 %</item>
+        <item>84 %</item>
+        <item>68 %</item>
+    </string-array>
+
+    <string-array name="status">
+        <item>Released</item>
+        <item>Released</item>
+        <item>Released</item>
+        <item>Released</item>
+        <item>Released</item>
+        <item>Released</item>
+        <item>Released</item>
+        <item>Released</item>
+        <item>Released</item>
+        <item>Released</item>
+        <item>Released</item>
+    </string-array>
+
+    <array name="data_description">
+        <item>As the Avengers and their allies have continued to protect the world from threats too
+            large for any one hero to handle, a new danger has emerged from the cosmic shadows
+            Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity
+            Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all
+            of reality. Everything the Avengers have fought for has led up to this moment the fate
+            of Earth and existence itself has never been more uncertain.
+        </item>
+        <item>Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist
+            John Deacon take the music world by storm when they form the rock n roll band Queen in
+            1970. Hit songs become instant classics. When Mercurys increasingly wild lifestyle
+            starts to spiral out of control, Queen soon faces its greatest challenge yet finding a
+            way to keep the band together amid the success and excess.
+        </item>
+        <item>On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small
+            Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place
+            in the world, discovers Bumblebee, battle-scarred and broken. When Charlie revives him,
+            she quickly learns this is no ordinary yellow VW bug.
+        </item>
+        <item>Investigative journalist Eddie Brock attempts a comeback following a scandal, but
+            accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon,
+            he must rely on his newfound powers to protect the world from a shadowy organization
+            looking for a symbiote of their own.
+        </item>
+        <item>Seasoned musician Jackson Maine discovers and falls in love with struggling artist
+            Ally. She has just about given up on her dream to make it big as a singer until Jack
+            coaxes her into the spotlight. But even as Allys career takes off, the personal side of
+            their relationship is breaking down, as Jack fights an ongoing battle with his own
+            internal demons.
+        </item>
+        <item>Many thousands of years in the future, Earth’s cities roam the globe on huge wheels,
+            devouring each other in a struggle for ever diminishing resources. On one of these
+            massive traction cities, the old London, Tom Natsworthy has an unexpected encounter with
+            a mysterious young woman from the wastelands who will change the course of his life
+            forever.
+        </item>
+        <item>Once home to the most advanced civilization on Earth, Atlantis is now an underwater
+            kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans
+            to conquer the remaining oceanic people and then the surface world. Standing in his way
+            is Arthur Curry, Orms half human, half Atlantean brother and true heir to the throne.
+        </item>
+        <item>Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys
+            to save a boys life.
+        </item>
+        <item>During the 1980s, a failed stand up comedian is driven insane and turns to a life of
+            crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.
+        </item>
+        <item>Between personal obligations and training for his next big fight against an opponent
+            with ties to his familys past, Adonis Creed is up against the challenge of his life.
+        </item>
+    </array>
+</resources>
