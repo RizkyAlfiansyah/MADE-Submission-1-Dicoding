@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MADE-SUB4</string>
+    <string name="app_name">MadeFinalSubmission</string>
     <string name="setting">Setting</string>
     <string name="bottom_menu_movies">Movies</string>
     <string name="bottom_menu_tvshow">TV Show</string>
@@ -24,4 +24,36 @@
     <string name="favorite_add_success">add success</string>
     <string name="favorite_remove_success">remove success</string>
     <string name="poster">Movie Poster</string>
+    <string name="search">search</string>
+    <string name="alarm">alarm notification</string>
+    <string name="search_not_found">not found</string>
+    <string name="appwidget_text">Favorite Movie</string>
+    <string name="add_widget">Add widget</string>
+    <string name="daily_alarm_message">Open the application right now</string>
+    <string name="alarm_preference">Reminder Preference</string>
+    <string name="alarm_success_setup">Success set up alarm</string>
+    <string name="alarm_success_cancel">Success cancel alarm</string>
+    <string name="alarm_failed_get_data">Failed getting data: %1$s</string>
+    <string name="alarm_release_message">New movies</string>
+    <string name="alarm_release_new_movie">New movie: %1$s</string>
+    <string name="alarm_release_summary">%1$d movies release today</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="language">Original Language</string>
+    <string name="not_found">Not Found</string>
+    <string name="delete_from_fav">Delete From Favorite</string>
+    <string name="confirm_message">Are you sure want to delete this item?</string>
+    <string name="confirm_title">Confirm to delete</string>
+    <string name="pos_btn">Yes</string>
+    <string name="success_info">Success !!</string>
+    <string name="neg_btn">No</string>
+
+    <string name="daily_reminder_title">Daily Reminder</string>
+    <string name="daily_reminder_desc">Reminder for return to app</string>
+    <string name="release_reminder_desc">Reminder showing the movie that released today</string>
+    <string name="notification_setting_title">Notification Setting</string>
+    <string name="daily_message_reminder">Let\'s see what movies are popular today!</string>
+    <string name="release_reminder_message">has been released today!</string>
+    <string name="release_reminder_title">Release Reminder</string>
 </resources>

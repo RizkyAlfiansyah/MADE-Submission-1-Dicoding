@@ -1,2 +1,2 @@
-include ':app'
-rootProject.name='MADE-SUB3'
+include ':app', ':favoriteapp'
+rootProject.name='MadeFinalSubmission'

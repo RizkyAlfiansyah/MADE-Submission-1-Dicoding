@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MADE-SUB4</string>
+    <string name="app_name">MadeFinalSubmission</string>
     <string name="setting">Setting</string>
     <string name="bottom_menu_movies">Film</string>
     <string name="bottom_menu_tvshow">Acara TV</string>
@@ -24,4 +24,33 @@
     <string name="favorite_add_success">sukses menambahkan</string>
     <string name="favorite_remove_success">sukses menghapus</string>
     <string name="poster">Gambar Film</string>
+    <string name="search">cari</string>
+    <string name="alarm">pemberitahuan alarm</string>
+    <string name="appwidget_text">film favorit</string>
+    <string name="search_not_found">Tidak ditemukan</string>
+    <string name="add_widget">Tambah Widget</string>
+    <string name="daily_alarm_message">Buka Aplikasi Sekarang</string>
+    <string name="alarm_preference">Pengingat</string>
+    <string name="alarm_success_setup">Alarm Sukses Diatur</string>
+    <string name="alarm_success_cancel">Batalkan Sukses</string>
+    <string name="alarm_failed_get_data">Gagal Memuat Data: %1$s</string>
+    <string name="alarm_release_message">Film Baru</string>
+    <string name="alarm_release_new_movie">Film Baru: %1$s</string>
+    <string name="alarm_release_summary">%1$d Film Dirilis Hari Ini</string>
+    <string name="language">Bahasa</string>
+    <string name="not_found">Tidak Ditemukan</string>
+    <string name="delete_from_fav">Hapus Dari Favorit</string>
+    <string name="confirm_message">Hapus Item Ini?</string>
+    <string name="confirm_title">Konfirmasi untuk menghapus </string>
+    <string name="pos_btn">Ya</string>
+    <string name="success_info">Sukses Menghapus !!</string>
+    <string name="neg_btn">Tidak</string>
+
+    <string name="daily_reminder_title">Pengingat Harian</string>
+    <string name="daily_reminder_desc">Pengingat Untuk Kembali Ke Aplikasi</string>
+    <string name="release_reminder_desc">Pengingat Film Yang Rilis Hari Ini</string>
+    <string name="notification_setting_title">Pengaturan Notifikasi</string>
+    <string name="daily_message_reminder">Ayo Cek Film Popular Hari ini!</string>
+    <string name="release_reminder_message">Rilis Hari ini!</string>
+    <string name="release_reminder_title">Pengingat Peluncuran</string>
 </resources>
