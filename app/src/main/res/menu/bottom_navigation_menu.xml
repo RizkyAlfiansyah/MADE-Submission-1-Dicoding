@@ -4,16 +4,16 @@
     >
 
     <item
-            android:id="@+id/movies"
-            android:enabled="true"
-            android:title="@string/bottom_menu_movies"
-            android:icon="@drawable/baseline_movie_24"
-            app:showAsAction="ifRoom"/>
+        android:id="@+id/movies"
+        android:enabled="true"
+        android:title="@string/bottom_menu_movies"
+        android:icon="@drawable/baseline_movie_24"
+        app:showAsAction="ifRoom"/>
 
     <item
-            android:id="@+id/tvshows"
-            android:enabled="true"
-            android:title="@string/bottom_menu_tvshow"
-            android:icon="@drawable/baseline_live_tv_24"
-            app:showAsAction="ifRoom"/>
+        android:id="@+id/tvshows"
+        android:enabled="true"
+        android:title="@string/bottom_menu_tvshow"
+        android:icon="@drawable/baseline_live_tv_24"
+        app:showAsAction="ifRoom"/>
 </menu>

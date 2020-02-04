@@ -7,5 +7,16 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
+    <style name="TextSpec">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="TextSpec.Field">
+        <item name="android:textColor">@color/colorSubTitle</item>
+    </style>
+
+    <style name="TextSpec.Value">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
 
 </resources>

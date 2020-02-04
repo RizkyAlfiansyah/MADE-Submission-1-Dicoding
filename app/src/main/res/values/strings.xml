@@ -1,168 +1,17 @@
 <resources>
-    <string name="app_name">MADE Submission 2</string>
-
+    <string name="app_name">MADE-SUB3 (EN-US)</string>
+    <string name="setting">Setting</string>
     <string name="bottom_menu_movies">Movies</string>
     <string name="bottom_menu_tvshow">TV Show</string>
 
-    <string-array name="movie_titles">
-        <item>Alita Battle Angel</item>
-        <item>Aquaman</item>
-        <item>Bohemian Rhapsody</item>
-        <item>Creed II</item>
-        <item>Fantastic Beasts: The Crimes of Grindelwald</item>
-        <item>Glass</item>
-        <item>How To Train Your Dragon</item>
-        <item>Infinity War</item>
-        <item>Marry Queen</item>
-        <item>IP Man - Master Z</item>
-    </string-array>
-
-    <string-array name="movie_descriptions">
-        <item>Alita: Battle Angel is a 2019 American cyberpunk action film based on the 1990s Japanese manga series Gunnm (known as Battle Angel Alita outside Japan) by Yukito Kishiro. Directed by Robert Rodriguez, the film is co-produced by James Cameron and written by Cameron and Laeta Kalogridis. Rosa Salazar stars as the titular heroine Alita, an amnesiac cyborg girl who sets out to learn about her destiny after she awakens in a new body with no past memory of who she is. Christoph Waltz, Jennifer Connelly, Mahershala Ali, Ed Skrein, Jackie Earle Haley and Keean Johnson also star in supporting roles.</item>
-        <item>Aquaman is a 2018 American superhero film based on the DC Comics character Aquaman and distributed by Warner Bros. Entertainment. It is the sixth installment in the DC Extended Universe (DCEU). The film is directed by James Wan, from a screenplay by David Leslie Johnson-McGoldrick and Will Beall, and is based on a story written by Geoff Johns, Wan and Beall. Aquaman stars Jason Momoa as the title character, with Amber Heard, Willem Dafoe, Patrick Wilson, Dolph Lundgren, Yahya Abdul-Mateen II, and Nicole Kidman in supporting roles. It is the third live-action theatrical film featuring Aquaman, following Batman v Superman: Dawn of Justice (2016) and Justice League (2017), and the first full-length feature film centered around the character. In the film, the titular character learns he is the heir to the underwater kingdom of Atlantis and must step forward to lead his people against his half-brother, Orm, who seeks to unite the seven underwater kingdoms against the surface world.</item>
-        <item>Bohemian Rhapsody is a 2018 biographical musical film, named after the song Bohemian Rhapsody, about Freddie Mercury, lead singer of the British rock band Queen. It follows the singers life from the formation of the band up to their 1985 Live Aid performance at the original Wembley Stadium. It was directed by Bryan Singer from a screenplay by Anthony McCarten, and produced by Graham King and Queen manager Jim Beach. It stars Rami Malek as Mercury, with Lucy Boynton, Gwilym Lee, Ben Hardy, Joe Mazzello, Aidan Gillen, Tom Hollander, Allen Leech, and Mike Myers in supporting roles. Queen members Brian May and Roger Taylor served as consultants. A British-American venture, the film was produced by 20th Century Fox, Regency Enterprises, GK Films, and Queen Films, with Fox serving as distributor.</item>
-        <item>Creed II is a 2018 American sports drama film directed by Steven Caple Jr., and written by Sylvester Stallone and Juel Taylor from a story by Sascha Penn and Cheo Hodari Coker. A sequel to Creed (2015) and the eighth installment in the Rocky film series, it stars Michael B. Jordan, Stallone, Tessa Thompson, Dolph Lundgren, Florian Munteanu, Wood Harris, and Phylicia Rashad. Creed writer-director Ryan Coogler serves as an executive producer on the film. The film follows a fight over 33 years in the making, as Adonis Creed meets a new adversary in the ring: Viktor Drago, son of Ivan Drago, the powerful athlete who killed Adonis father Apollo Creed.</item>
-        <item>Fantastic Beasts: The Crimes of Grindelwald is a 2018 fantasy film directed by David Yates and written by J. K. Rowling. A joint British and American production, it is the sequel to Fantastic Beasts and Where to Find Them (2016). It is the second instalment in the Fantastic Beasts film series, and the tenth overall in the Wizarding World franchise, which began with the Harry Potter film series. The film features an ensemble cast that includes Eddie Redmayne, Katherine Waterston, Dan Fogler, Alison Sudol, Ezra Miller, Zoë Kravitz, Callum Turner, Claudia Kim, William Nadylam, Kevin Guthrie, Jude Law, and Johnny Depp. The plot follows Newt Scamander and Albus Dumbledore as they attempt to take down the dark wizard Gellert Grindelwald, while facing new threats in a more divided wizarding world.</item>
-        <item>Glass is a 2019 American psychological superhero thriller film written and directed by M. Night Shyamalan, who also producer with Jason Blum, Marc Bienstock and Ashwin Rajan. The film is a crossover and sequel to Shyamalans previous films Unbreakable (2000) and Split (2016), serving as the final installment in the Unbreakable trilogy.[8] Bruce Willis, Samuel L. Jackson, Spencer Treat Clark, and Charlayne Woodard reprise their Unbreakable roles, while James McAvoy and Anya Taylor-Joy return as their Split characters,[9] with Sarah Paulson, Adam David Thompson, and Luke Kirby joining the cast. In the film, David Dunn becomes locked in a mental hospital alongside his archenemy Mr. Glass, as well as the multi-personality "The Horde", and must contend with a psychiatrist who is out to prove the trio do not actually possess super-human abilities.</item>
-        <item>How to Train Your Dragon is a 2010 American computer-animated action fantasy film loosely based on the 2003 book of the same name by British author Cressida Cowell, produced by DreamWorks Animation and distributed by Paramount Pictures. The film was directed by Chris Sanders and Dean DeBlois from a screenplay by Will Davies, Sanders, and DeBlois, and stars the voices of Jay Baruchel, Gerard Butler, Craig Ferguson, America Ferrera, Jonah Hill, Christopher Mintz-Plasse, T. J. Miller, and Kristen Wiig. The story takes place in a mythical Viking world where a young Viking teenager named Hiccup aspires to follow his tribes tradition of becoming a dragon slayer. After finally capturing his first dragon, and with his chance at last of gaining the tribes acceptance, he finds that he no longer wants to kill the dragon and instead befriends it.</item>
-        <item>Avengers: Infinity War is a 2018 American superhero film based on the Marvel Comics superhero team the Avengers, produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures. It is the sequel to 2012s The Avengers and 2015s Avengers: Age of Ultron, and the nineteenth film in the Marvel Cinematic Universe (MCU). It was directed by Anthony and Joe Russo, written by Christopher Markus and Stephen McFeely, and features an ensemble cast including Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans, Scarlett Johansson, Benedict Cumberbatch, Don Cheadle, Tom Holland, Chadwick Boseman, Paul Bettany, Elizabeth Olsen, Anthony Mackie, Sebastian Stan, Danai Gurira, Letitia Wright, Dave Bautista, Zoe Saldana, Josh Brolin, and Chris Pratt. In the film, the Avengers and the Guardians of the Galaxy attempt to prevent Thanos from amassing the all-powerful Infinity Stones in a bid to wipe out half of all life in the universe.</item>
-        <item>Mary Queen of Scots is a 2018 historical drama film directed by Josie Rourke and written by Beau Willimon, based on John Guys biography Queen of Scots: The True Life of Mary Stuart. The film stars Saoirse Ronan as Mary, Queen of Scots and Margot Robbie as her cousin Queen Elizabeth I, and chronicles the 1569 conflict between their two countries. Jack Lowden, Joe Alwyn, David Tennant, Gemma Chan, and Guy Pearce also star in supporting roles.</item>
-        <item>Master Z: Ip Man Legacy (Chinese: 葉問外傳：張天志) is a 2018 Chinese martial arts film directed by Yuen Woo-ping and produced by Raymond Wong and Donnie Yen. It is a spin-off and direct sequel to the 2015 film Ip Man 3. This film stars Max Zhang, Dave Bautista and Liu Yan, and was released on December 21, 2018.</item>
-    </string-array>
-
-    <array name="movie_posters">
-        <item>@drawable/poster_alita</item>
-        <item>@drawable/poster_aquaman</item>
-        <item>@drawable/poster_bohemian</item>
-        <item>@drawable/poster_creed</item>
-        <item>@drawable/poster_crimes</item>
-        <item>@drawable/poster_glass</item>
-        <item>@drawable/poster_how_to_train</item>
-        <item>@drawable/poster_infinity_war</item>
-        <item>@drawable/poster_marry_queen</item>
-        <item>@drawable/poster_master_z</item>
-    </array>
-
-    <string-array name="movie_releasedates">
-        <item>February 14, 2019</item>
-        <item>December 21, 2018</item>
-        <item>2 November 2018</item>
-        <item>November 21, 2018</item>
-        <item>16 November 2018</item>
-        <item>January 18, 2019</item>
-        <item>March 26, 2010</item>
-        <item>April 27, 2018</item>
-        <item>18 January 2019</item>
-        <item>December 21, 2018</item>
-    </string-array>
-
-    <string-array name="movie_runningtimes">
-        <item>122 minutes</item>
-        <item>143 minutes</item>
-        <item>134 minutes</item>
-        <item>130 minutes</item>
-        <item>134 minutes</item>
-        <item>129 minutes</item>
-        <item>98 minutes</item>
-        <item>149 minutes</item>
-        <item>125 minutes</item>
-        <item>90 minutes</item>
-    </string-array>
-
-    <string-array name="movie_distributedby">
-        <item>20th Century Fox</item>
-        <item>Warner Bros. Pictures</item>
-        <item>20th Century Fox</item>
-        <item>Warner Bros. Pictures</item>
-        <item>Warner Bros. Pictures</item>
-        <item>Universal Pictures</item>
-        <item>Paramount Pictures</item>
-        <item>Walt Disney Studios </item>
-        <item>Universal Pictures</item>
-        <item>Universal Studios</item>
-    </string-array>
-
-    <string-array name="tvshow_titles">
-        <item>Arrow</item>
-        <item>Doom Patrol</item>
-        <item>Dragon Ball</item>
-        <item>Fairy Tail</item>
-        <item>Family Guy</item>
-        <item>Flash</item>
-        <item>GOT</item>
-        <item>Gotham</item>
-        <item>Grey Anatomy</item>
-        <item>Hanna</item>
-    </string-array>
-
-    <string-array name="tvshow_descriptions">
-        <item>Arrow is an American superhero television series developed by Greg Berlanti, Marc Guggenheim, and Andrew Kreisberg based on the DC Comics character Green Arrow, a costumed crime-fighter created by Mort Weisinger and George Papp, and is set in the Arrowverse, sharing continuity with other Arrowverse television series. The series premiered in the United States on The CW on October 10, 2012, with international broadcasting taking place in late 2012 and primarily filmed in Vancouver, British Columbia, Canada. Arrow follows billionaire playboy Oliver Queen (Stephen Amell), who claimed to have spent five years shipwrecked on Lian Yu, a mysterious island in the North China Sea, before returning home to Starling City (later renamed "Star City") to fight crime and corruption as a secret vigilante whose weapon of choice is a bow and arrow.</item>
-        <item>Doom Patrol is an American web television series based on the DC Comics superhero team of the same name that premiered on February 15, 2019, on DC Universe. It is a spin-off of Titans, with April Bowlby, Brendan Fraser, and Matt Bomer reprising their roles, as well as Diane Guerrero, Alan Tudyk, Joivan Wade and Timothy Dalton joining the cast. Filming began in Georgia in late August 2018, and the first season consists of 15 episodes.</item>
-        <item>Dragon Ball (Japanese: ドラゴンボール Hepburn: Doragon Bōru), sometimes styled as Dragonball, is a Japanese media franchise created by Akira Toriyama in 1984. The initial manga, written and illustrated by Toriyama, was serialized in Weekly Shōnen Jump from 1984 to 1995, with the 519 individual chapters collected into 42 tankōbon volumes by its publisher Shueisha. Dragon Ball was initially inspired by the classical Chinese novel Journey to the West, as well as Hong Kong martial arts films. The series follows the adventures of the protagonist, Son Goku, from his childhood through adulthood as he trains in martial arts and explores the world in search of the seven orbs known as the Dragon Balls, which summon a wish-granting dragon when gathered. Along his journey, Goku makes several friends and battles a wide variety of villains, many of whom also seek the Dragon Balls.</item>
-        <item>Fairy Tail (Japanese: フェアリーテイル Hepburn: Fearī Teiru) is a Japanese manga series written and illustrated by Hiro Mashima. It was serialized in Kodanshas Weekly Shōnen Magazine from August 2, 2006 to July 26, 2017, with the individual chapters collected and published into 63 tankōbon volumes. The story follows the adventures of Natsu Dragneel, a member of the popular wizard[3] guild Fairy Tail, as he searches the fictional world of Earth-land for the dragon Igneel.</item>
-        <item>Family Guy is an American animated sitcom created by Seth MacFarlane for the Fox Broadcasting Company. The series centers on the Griffins, a family consisting of parents Peter and Lois; their children, Meg, Chris, and Stewie; and their anthropomorphic pet dog, Brian. The show is set in the fictional city of Quahog, Rhode Island, and exhibits much of its humor in the form of metafictional cutaway gags that often lampoon American culture.</item>
-        <item>The Flash is an American superhero television series developed by Greg Berlanti, Andrew Kreisberg, and Geoff Johns, airing on The CW. It is based on the DC Comics character Barry Allen / Flash, a costumed superhero crime-fighter with the power to move at superhuman speeds. It is a spin-off from Arrow, existing in the same fictional universe. The series follows Barry Allen, portrayed by Grant Gustin, a crime scene investigator who gains super-human speed, which he uses to fight criminals, including others who have also gained superhuman abilities.</item>
-        <item>Game of Thrones is an American fantasy drama television series created by David Benioff and D. B. Weiss for HBO. It is an adaptation of A Song of Ice and Fire, George R. R. Martins series of fantasy novels, the first of which is A Game of Thrones. The show was both produced and filmed in Belfast and elsewhere in the United Kingdom. Filming locations also included Canada, Croatia, Iceland, Malta, Morocco, and Spain.[1] The series premiered on HBO in the United States on April 17, 2011, and concluded on May 19, 2019, with 73 episodes broadcast over eight seasons.</item>
-        <item>Gotham is an American crime drama television series developed by Bruno Heller and based on characters published by DC Comics and appearing in the Batman franchise, primarily those of James Gordon and Bruce Wayne. Danny Cannon directed the pilot, and he is an executive producer along with Heller. The series stars Ben McKenzie as the young James Gordon. It premiered on Fox on September 22, 2014 and concluded on April 25, 2019.</item>
-        <item>Greys Anatomy is an American medical drama television series that premiered on March 27, 2005, on the American Broadcasting Company (ABC) as a mid-season replacement. The fictional series focuses on the lives of surgical interns, residents, and attending physicians, as they develop into seasoned doctors while trying to maintain personal lives and relationships. The title is a play on Grays Anatomy, a classic human anatomy textbook first published in 1858 in London and written by Henry Gray. Shonda Rhimes developed the pilot and continues to write for the series; she is also one of the executive producers, along with Betsy Beers, Mark Gordon, Krista Vernoff, Rob Corn, Mark Wilding, and Allan Heinberg. Although the series is set in Seattle (at the fictional Seattle Grace Hospital, later renamed), it is filmed primarily in Los Angeles, California.</item>
-        <item>Hanna is an American action drama web television series, based on the 2011 film of the same name, on Amazon Video. The series was created and written by David Farr, directed by Sarah Adina Smith, and stars Esme Creed-Miles, Joel Kinnaman, and Mireille Enos. The first episode was made available on Amazon Video as a time-limited preview on February 3, 2019. The full eight-episode first season was released on March 29, 2019. In April 2019, Amazon renewed the series for a second season.</item>
-    </string-array>
-
-    <array name="tvshow_posters">
-        <item>@drawable/poster_arrow</item>
-        <item>@drawable/poster_doom_patrol</item>
-        <item>@drawable/poster_dragon_ball</item>
-        <item>@drawable/poster_fairytail</item>
-        <item>@drawable/poster_family_guy</item>
-        <item>@drawable/poster_flash</item>
-        <item>@drawable/poster_god</item>
-        <item>@drawable/poster_gotham</item>
-        <item>@drawable/poster_grey_anatomy</item>
-        <item>@drawable/poster_hanna</item>
-    </array>
-
-    <string-array name="tvshow_releasedates">
-        <item>October 10, 2012</item>
-        <item>February 15, 2019</item>
-        <item>1986</item>
-        <item>October 12, 2009</item>
-        <item>January 31, 1999</item>
-        <item>October 7, 2014</item>
-        <item>April 17, 2011</item>
-        <item>September 22, 2014</item>
-        <item>March 27, 2005</item>
-        <item>February 3, 2019</item>
-    </string-array>
-
-    <string-array name="tvshow_runningtimes">
-        <item>40–43 minutes</item>
-        <item>45–60 minutes</item>
-        <item>30–33 minutes</item>
-        <item>30 minutes</item>
-        <item>20–23 minutes</item>
-        <item>42–45 minutes</item>
-        <item>50–82 minutes</item>
-        <item>42–49 minutes</item>
-        <item>43 minutes</item>
-        <item>47–55 minutes</item>
-    </string-array>
-
-    <string-array name="tvshow_distributedby">
-        <item>Warner Bros. Television Distribution</item>
-        <item>Warner Bros. Television Distribution</item>
-        <item>Japan</item>
-        <item>Animax Asia</item>
-        <item>20th Television</item>
-        <item>Warner Bros. Television Distribution</item>
-        <item>Warner Bros. Television Distribution</item>
-        <item>Warner Bros. Television Distribution</item>
-        <item>Walt Disney Television</item>
-        <item>Prime Video</item>
-    </string-array>
-
     <string name="releasedate">Release Date</string>
-    <string name="durationtime">Duration Time</string>
-    <string name="distributedby">Distributed By</string>
-    <string name="description">Description</string>
+    <string name="runningtime">Running Time</string>
+    <string name="description">Overview</string>
+    <string name="detailfilm">Detail Film</string>
 
+    <string name="field_title">Title</string>
+    <string name="field_vote">Rating</string>
+    <string name="title_movies">Movie</string>
+    <string name="title_tv_shows">Tv Show</string>
+    <string name="data_language">en-US</string>
 </resources>
