@@ -1,0 +1,222 @@
+<resources>
+    <string name="app_name">MADE Submission 2</string>
+
+    <string name="bottom_menu_movies">Film</string>
+    <string name="bottom_menu_tvshow">Acara TV</string>
+
+    <string-array name="movie_titles">
+        <item>A Star is Born</item>
+        <item>Alita Battle Angel</item>
+        <item>Aquaman</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Cold Pursuit</item>
+        <item>Creed II</item>
+        <item>Fantastic Beasts: The Crimes of Grindelwald</item>
+        <item>Glass</item>
+        <item>How To Train Your Dragon</item>
+        <item>Infinity War</item>
+        <item>Marry Queen</item>
+        <item>IP Man - Master Z</item>
+        <item>Mortal Engines</item>
+        <item>Overlord</item>
+        <item>Wreck It Ralph</item>
+        <item>Robin Hood</item>
+        <item>Serenity</item>
+        <item>Spider-Man: Into the Spider-Verse</item>
+        <item>T-34</item>
+    </string-array>
+
+    <string-array name="movie_descriptions">
+        <item> A Star Is Born adalah film drama romantis musikal Amerika tahun 2018 yang diproduksi dan disutradarai oleh Bradley Cooper dan ditulis oleh Eric Roth, Cooper dan Will Fetters. Sebuah remake dari film 1937 dengan nama yang sama, dibintangi oleh Cooper, Lady Gaga, Dave Chappelle, Andrew Dice Clay, dan Sam Elliott, dan mengikuti musisi peminum keras (Cooper) yang menemukan dan jatuh cinta dengan penyanyi muda ( Gaga). Ini menandai remake ketiga dari film 1937 asli, setelah musikal 1954 dan musikal 1976.</item>
+        <item> Alita: Battle Angel adalah film aksi cyberpunk Amerika tahun 2019 berdasarkan serial manga Jepang Gunnm (dikenal sebagai Battle Angel Alita di luar Jepang) oleh Yukito Kishiro. Disutradarai oleh Robert Rodriguez, film ini diproduksi bersama oleh James Cameron dan ditulis oleh Cameron dan Laeta Kalogridis. Rosa Salazar dibintangi sebagai pahlawan utama Alita, seorang gadis cyborg amnesia yang mulai belajar tentang nasibnya setelah dia terbangun dalam tubuh baru tanpa ingatan masa lalu tentang siapa dia. Christoph Waltz, Jennifer Connelly, Mahershala Ali, Ed Skrein, Jackie Earle Haley dan Keean Johnson juga membintangi peran pendukung. </item>
+        <item> Aquaman adalah film superhero Amerika tahun 2018 berdasarkan karakter DC Comics Aquaman dan didistribusikan oleh Warner Bros Entertainment. Ini adalah angsuran keenam di DC Extended Universe (DCEU). Film ini disutradarai oleh James Wan, dari sebuah skenario oleh David Leslie Johnson-McGoldrick dan Will Beall, dan didasarkan pada sebuah cerita yang ditulis oleh Geoff Johns, Wan dan Beall. Aquaman membintangi Jason Momoa sebagai karakter utama, dengan Amber Heard, Willem Dafoe, Patrick Wilson, Dolph Lundgren, Yahya Abdul-Mateen II, dan Nicole Kidman dalam peran pendukung. Ini adalah film teater aksi langsung ketiga yang menampilkan Aquaman, mengikuti Batman v Superman: Dawn of Justice (2016) dan Justice League (2017), dan film panjang penuh pertama yang berpusat di sekitar karakter. Dalam film tersebut, karakter tituler mengetahui bahwa ia adalah pewaris kerajaan bawah laut Atlantis dan harus melangkah maju untuk memimpin rakyatnya melawan saudara tirinya, Orm, yang berupaya menyatukan tujuh kerajaan bawah air melawan dunia permukaan. </item>
+        <item> Bohemian Rhapsody adalah film musik biografi 2018, dinamai sesuai lagu Bohemian Rhapsody, tentang Freddie Mercury, penyanyi utama band rock Inggris Queen. Ini mengikuti kehidupan penyanyi dari pembentukan band hingga kinerja Live Aid 1985 mereka di Stadion Wembley asli. Film ini disutradarai oleh Bryan Singer dari sebuah skenario oleh Anthony McCarten, dan diproduksi oleh Graham King dan manajer Queen Jim Beach. Itu dibintangi Rami Malek sebagai Merkurius, dengan Lucy Boynton, Gwilym Lee, Ben Hardy, Joe Mazzello, Aidan Gillen, Tom Hollander, Allen Leech, dan Mike Myers dalam peran pendukung. Anggota ratu Brian May dan Roger Taylor melayani sebagai konsultan. Sebuah usaha Inggris-Amerika, film ini diproduksi oleh 20th Century Fox, Regency Enterprises, GK Films, dan Queen Films, dengan Fox berperan sebagai distributor. </item>
+        <item> Cold Pursuit adalah film aksi komedi hitam Amerika-Inggris 2019 yang disutradarai oleh Hans Petter Moland (dalam debut Hollywood-nya) dari sebuah skenario oleh Frank Baldwin. Film ini dibintangi oleh Liam Neeson, Tom Bateman, Tom Jackson, Emmy Rossum, Domenick Lombardozzi, Julia Jones, John Doman, dan Laura Dern. Ini adalah remake resmi film Norwegia 2014 In Order of Disappearance (Kraftidioten), yang juga disutradarai oleh Moland, dan mengikuti seorang pengemudi bajak salju yang mulai membunuh anggota kartel narkoba setelah pembunuhan putranya. </item>
+        <item> Creed II adalah film drama olahraga Amerika tahun 2018 yang disutradarai oleh Steven Caple Jr., dan ditulis oleh Sylvester Stallone dan Juel Taylor dari sebuah kisah oleh Sascha Penn dan Cheo Hodari Coker. Sekuel Creed (2015) dan angsuran kedelapan dalam seri film Rocky, dibintangi oleh Michael B. Jordan, Stallone, Tessa Thompson, Dolph Lundgren, Florian Munteanu, Wood Harris, dan Phylicia Rashad. Penulis-sutradara kredo Ryan Coogler berperan sebagai produser eksekutif di film ini. Film ini mengikuti pertarungan selama 33 tahun dalam pembuatan, ketika Adonis Creed bertemu musuh baru di atas ring: Viktor Drago, putra Ivan Drago, atlet kuat yang membunuh ayah Adonis, Apollo Creed. </item>
+        <item> Fantastic Beasts: The Crimes of Grindelwald adalah film fantasi tahun 2018 yang disutradarai oleh David Yates dan ditulis oleh J. K. Rowling. Produksi bersama Inggris dan Amerika, itu adalah sekuel Fantastic Beasts dan Where to Find Them (2016). Ini adalah angsuran kedua dalam seri film Fantastic Beasts, dan keseluruhan kesepuluh dalam franchise Dunia Sihir, yang dimulai dengan seri film Harry Potter. Film ini menampilkan pemain ansambel yang mencakup Eddie Redmayne, Katherine Waterston, Dan Fogler, Alison Sudol, Ezra Miller, Zoë Kravitz, Callum Turner, Claudia Kim, William Nadylam, Kevin Guthrie, Jude Law, dan Johnny Depp. Alur ceritanya mengikuti Newt Scamander dan Albus Dumbledore ketika mereka mencoba untuk mengalahkan penyihir gelap Gellert Grindelwald, sambil menghadapi ancaman baru di dunia penyihir yang lebih terpecah. </item>
+        <item> Glass adalah film thriller superhero psikologis 2019 Amerika yang ditulis dan disutradarai oleh M. Night Shyamalan, yang juga produser bersama Jason Blum, Marc Bienstock, dan Ashwin Rajan. Film ini adalah crossover dan sekuel dari film-film Shyamalan sebelumnya, Unbreakable (2000) dan Split (2016), berfungsi sebagai angsuran terakhir dalam trilogi Unbreakable. [8] Bruce Willis, Samuel L. Jackson, Spencer Treat Clark, dan Charlayne Woodard memainkan peran Unbreakable mereka, sementara James McAvoy dan Anya Taylor-Joy kembali sebagai karakter Split mereka, [9] dengan Sarah Paulson, Adam David Thompson, dan Luke Kirby bergabung dengan melemparkan. Dalam film tersebut, David Dunn menjadi terkunci di rumah sakit jiwa bersama musuh bebuyutannya Mr. Glass, serta multi-kepribadian "The Horde", dan harus bersaing dengan seorang psikiater yang keluar untuk membuktikan ketiganya tidak benar-benar memiliki super-. kemampuan manusia. </item>
+        <item> How to Train Your Dragon adalah film fantasi aksi animasi komputer Amerika 2010 yang didasarkan pada buku tahun 2003 dengan nama yang sama oleh penulis Inggris Cressida Cowell, diproduksi oleh DreamWorks Animation dan didistribusikan oleh Paramount Pictures. Film ini disutradarai oleh Chris Sanders dan Dean DeBlois dari sebuah skenario oleh Will Davies, Sanders, dan DeBlois, dan dibintangi oleh suara-suara Jay Baruchel, Gerard Butler, Craig Ferguson, America Ferrera, Jonah Hill, Christopher Mintz-Plasse, TJ Miller, dan Kristen Wiig. Kisah ini terjadi di dunia mitos Viking di mana seorang remaja Viking muda bernama Hiccup bercita-cita untuk mengikuti tradisi sukunya menjadi pembunuh naga. Setelah akhirnya menangkap naga pertamanya, dan dengan kesempatannya akhirnya mendapatkan penerimaan suku, dia menemukan bahwa dia tidak lagi ingin membunuh naga dan malah berteman dengan naga itu. </item>
+        <item> Avengers: Infinity War adalah film superhero Amerika 2018 yang didasarkan pada tim superhero Marvel Comics the Avengers, diproduksi oleh Marvel Studios dan didistribusikan oleh Walt Disney Studios Motion Pictures. Ini adalah sekuel The Avengers 2012 dan Avengers 2015: Age of Ultron, dan film kesembilan belas di Marvel Cinematic Universe (MCU). Film ini disutradarai oleh Anthony dan Joe Russo, ditulis oleh Christopher Markus dan Stephen McFeely, dan menampilkan pemeran ansambel termasuk Robert Downey Jr, Chris Hemsworth, Mark Ruffalo, Chris Evans, Scarlett Johansson, Benedict Cumberbatch, Don Cheadle, Tom Holland, Chadwick Boseman, Paul Bettany, Elizabeth Olsen, Anthony Mackie, Sebastian Stan, Danai Gurira, Letitia Wright, Dave Bautista, Zoe Saldana, Josh Brolin, dan Chris Pratt. Dalam film tersebut, Avengers dan Guardians of the Galaxy berupaya mencegah Thanos dari mengumpulkan Batu Infinity yang sangat kuat dalam upaya untuk menghapus setengah dari seluruh kehidupan di alam semesta. </item>
+        <item> Mary Queen of Scots adalah film drama sejarah 2018 yang disutradarai oleh Josie Rourke dan ditulis oleh Beau Willimon, berdasarkan biografi John Guys Queen of Scots: Kehidupan Sejati Mary Stuart. Film ini dibintangi Saoirse Ronan sebagai Mary, Queen of Scots dan Margot Robbie sebagai sepupunya Queen Elizabeth I, dan mencatat konflik 1569 antara kedua negara mereka. Jack Lowden, Joe Alwyn, David Tennant, Gemma Chan, dan Guy Pearce juga membintangi peran pendukung. </item>
+        <item> Master Z: Warisan Ip Man (Bahasa Mandarin: 葉 問 外傳 ： 張 天 志) adalah film seni bela diri Tiongkok tahun 2018 yang disutradarai oleh Yuen Woo-ping dan diproduksi oleh Raymond Wong dan Donnie Yen. Ini adalah sekuel spin-off dan langsung ke film 2015 Ip Man 3. Film ini dibintangi Max Zhang, Dave Bautista dan Liu Yan, dan dirilis pada 21 Desember 2018. </item>
+        <item> Mortal Engine adalah film petualangan pasca-apokaliptik 2018 yang disutradarai oleh Christian Rivers dan dengan skenario oleh Fran Walsh, Philippa Boyens dan Peter Jackson, berdasarkan novel dengan nama yang sama oleh Philip Reeve, dan dibintangi Hera Hilmar, Robert Sheehan , Hugo Weaving, Jihae, Ronan Raftery, Leila George, Patrick Malahide, dan Stephen Lang. Sebuah produksi bersama Amerika-Selandia Baru, film ini berlatar dunia pasca-apokaliptik di mana seluruh kota telah dipasang pada roda dan bermotor, dan saling memangsa satu sama lain. </item>
+        <item> Overlord adalah film horor perang Amerika tahun 2018 yang disutradarai oleh Julius Avery dan ditulis oleh Billy Ray dan Mark L. Smith. Dibintangi oleh Jovan Adepo, Wyatt Russell, Mathilde Ollivier, John Magaro, Gianny Taufer, Pilou Asbæk, dan Bokeem Woodbine. [6] Film ini diproduksi oleh J. J. Abrams, melalui spanduk Bad Robot Productions, dan Lindsey Weber. [7] [8] Plot mengikuti beberapa tentara Amerika yang jatuh di belakang garis musuh sehari sebelum Hari-H dan menemukan eksperimen Nazi rahasia. </item>
+        <item> Ralph Breaks the Internet adalah film komedi animasi 3D komputer Amerika tahun 2018 yang diproduksi oleh Walt Disney Animation Studios dan didistribusikan oleh Walt Disney Pictures. Ini adalah sekuel dari film Wreck-It Ralph 2012, menjadikannya film animasi panjang ke-57 fitur Disneys. Film ini disutradarai oleh Rich Moore dan Phil Johnston (yang menulis skenario dengan Pamela Ribon) dan diproduksi oleh John Lasseter, Chris Williams dan Jennifer Lee. [A] Film ini menampilkan karya suara oleh John C. Reilly, Sarah Silverman, Jack McBrayer, Jane Lynch dan Ed ONeill (mengulang peran mereka dari film pertama), dengan Alan Tudyk kembali menyuarakan karakter baru dan tambahan baru untuk para pemeran yang mencakup Gal Gadot, Taraji P. Henson dan Alfred Molina. </item>
+        <item> Robin Hood adalah film aksi-petualangan Amerika tahun 2018 yang disutradarai oleh Otto Bathurst dan ditulis oleh Ben Chandler dan David James Kelly, dari sebuah cerita oleh Chandler. Ini menceritakan legenda Robin Hood, dan mengikuti pelatihannya oleh John untuk mencuri dari Sheriff of Nottingham. Film ini dibintangi oleh Taron Egerton, Jamie Foxx, Ben Mendelsohn, Eve Hewson, Tim Minchin, dan Jamie Dornan. </item>
+        <item> Serenity adalah film thriller neo-noir Amerika 2019 yang ditulis, diproduksi dan disutradarai oleh Steven Knight. [3] Film ini dibintangi oleh Matthew McConaughey, Anne Hathaway, Diane Lane, Jason Clarke, Djimon Hounsou, dan Jeremy Strong, dan mengikuti seorang kapten kapal penangkap ikan yang didekati oleh mantan istrinya untuk membunuh suaminya yang kejam. Pertama kali diumumkan pada Januari 2017, fotografi utama film ini dimulai di Pulau Mauritius pada bulan Juli itu. </item>
+        <item> Spider-Man: Into the Spider-Verse adalah film superhero animasi komputer Amerika tahun 2018 yang menampilkan karakter Marvel Comics, Miles Morales / Spider-Man, diproduksi oleh Columbia Pictures dan Animasi Gambar Sony bersama Marvel, dan didistribusikan oleh Sony Gambar Melepaskan. Ini adalah film fitur animasi pertama dalam franchise Spider-Man, [4] [5] dan diatur dalam multiverse bersama yang disebut "Spider-Verse", yang memiliki alam semesta alternatif. Film ini disutradarai oleh Bob Persichetti, Peter Ramsey, dan Rodney Rothman dari sebuah skenario oleh Phil Lord dan Rothman, dan sebuah cerita oleh Lord. Dibintangi suara-suara dari Shameik Moore, Jake Johnson, Hailee Steinfeld, Mahershala Ali, Brian Tyree Henry, Lily Tomlin, Luna Lauren Velez, John Mulaney, Kimiko Glenn, Nicolas Cage, dan Liev Schreiber. Dalam film tersebut, Miles Morales bergabung dengan Spider-Men lainnya dari berbagai dimensi yang bekerja sama untuk menyelamatkan New York City dari Kingpin. </item>
+        <item> T-34 (Bahasa Rusia: Т-34) adalah film perang Rusia tahun 2019 yang disutradarai oleh Aleksey Sidorov. Judul referensi T-34, tank menengah Soviet era Perang Dunia II yang digunakan selama invasi Uni Soviet. Film ini menceritakan kehidupan Nikolay Ivkushin, seorang komandan tank yang ditangkap oleh Nazi. Tiga tahun kemudian, ia mulai merencanakan pelarian terakhirnya, bersama dengan awak tanknya yang baru direkrut. Dibintangi oleh Alexander Petrov sebagai Nikolay Ivushkin, dengan Viktor Dobronravov, Irina Starshenbaum, Anton Bogdanov, Yuriy Borisov, Semyon Treskunov, dan Artyom Bystrov. </item>
+    </string-array>
+
+    <array name="movie_posters">
+        <item>@drawable/poster_a_start_is_born</item>
+        <item>@drawable/poster_alita</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_cold_persuit</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_crimes</item>
+        <item>@drawable/poster_glass</item>
+        <item>@drawable/poster_how_to_train</item>
+        <item>@drawable/poster_infinity_war</item>
+        <item>@drawable/poster_marry_queen</item>
+        <item>@drawable/poster_master_z</item>
+        <item>@drawable/poster_mortal_engines</item>
+        <item>@drawable/poster_overlord</item>
+        <item>@drawable/poster_ralph</item>
+        <item>@drawable/poster_robin_hood</item>
+        <item>@drawable/poster_serenity</item>
+        <item>@drawable/poster_spiderman</item>
+        <item>@drawable/poster_t34</item>
+    </array>
+
+    <string-array name="movie_releasedates">
+        <item>5 Oktober 2018</item>
+        <item>14 Februari 2019</item>
+        <item>21 Desember 2018</item>
+        <item>2 November 2018</item>
+        <item>8 Februari 2019</item>
+        <item>21 November 2018</item>
+        <item>16 November 2018</item>
+        <item>18 Januari 2019</item>
+        <item>26 Maret 2010</item>
+        <item>27 April 2018</item>
+        <item>18 Januari 2019</item>
+        <item>21 Desember 2018</item>
+        <item>14 Desember 2018</item>
+        <item>9 November 2018</item>
+        <item>21 November 2018</item>
+        <item>21 November 2018</item>
+        <item>25 Januari 2019</item>
+        <item>14 Desember 2018</item>
+        <item>1 Januari 2019</item>
+    </string-array>
+
+    <string-array name="movie_runningtimes">
+        <item>148 menit</item>
+        <item>122 menit</item>
+        <item>143 menit</item>
+        <item>134 menit</item>
+        <item>118 menit</item>
+        <item>130 menit</item>
+        <item>134 menit</item>
+        <item>129 menit</item>
+        <item>98 menit</item>
+        <item>149 menit</item>
+        <item>125 menit</item>
+        <item>90 menit</item>
+        <item>128 menit</item>
+        <item>110 menit</item>
+        <item>112 menit</item>
+        <item>116 menit</item>
+        <item>106 menit</item>
+        <item>117 menit</item>
+        <item>139 menit</item>
+    </string-array>
+
+    <string-array name="movie_distributedby">
+        <item>Warner Bros. Pictures</item>
+        <item>20th Century Fox</item>
+        <item>Warner Bros. Pictures</item>
+        <item>20th Century Fox</item>
+        <item>Summit Entertainment</item>
+        <item>Warner Bros. Pictures</item>
+        <item>Warner Bros. Pictures</item>
+        <item>Universal Pictures</item>
+        <item>Paramount Pictures</item>
+        <item>Walt Disney Studios </item>
+        <item>Universal Pictures</item>
+        <item>Universal Studios</item>
+        <item>Universal Pictures</item>
+        <item>Paramount Pictures</item>
+        <item>Walt Disney Studios</item>
+        <item>Lionsgate</item>
+        <item>Aviron Pictures</item>
+        <item>Sony Pictures Releasing</item>
+        <item>Central Partnership</item>
+    </string-array>
+
+    <string-array name="tvshow_titles">
+        <item>Arrow</item>
+        <item>Doom Patrol</item>
+        <item>Dragon Ball</item>
+        <item>Fairy Tail</item>
+        <item>Family Guy</item>
+        <item>Flash</item>
+        <item>GOT</item>
+        <item>Gotham</item>
+        <item>Grey Anatomy</item>
+        <item>Hanna</item>
+    </string-array>
+
+    <string-array name="tvshow_descriptions">
+        <item> Arrow adalah serial televisi superhero Amerika yang dikembangkan oleh Greg Berlanti, Marc Guggenheim, dan Andrew Kreisberg berdasarkan karakter DC Comics Green Arrow, seorang pejuang kriminal berkostum yang diciptakan oleh Mort Weisinger dan George Papp, dan berlatar di Arrowverse, berbagi kesinambungan dengan serial televisi Arrowverse lainnya. Serial ini ditayangkan perdana di Amerika Serikat pada The CW pada 10 Oktober 2012, dengan penyiaran internasional berlangsung pada akhir 2012 dan terutama difilmkan di Vancouver, British Columbia, Kanada. Arrow mengikuti playboy miliarder Oliver Queen (Stephen Amell), yang mengaku telah menghabiskan lima tahun terdampar di Lian Yu, sebuah pulau misterius di Laut Cina Utara, sebelum kembali ke rumah ke Starling City (kemudian berganti nama menjadi "Star City") untuk memerangi kejahatan dan korupsi sebagai main hakim sendiri rahasia yang senjata pilihannya adalah busur dan anak panah. </item>
+        <item> Doom Patrol adalah serial televisi web Amerika yang didasarkan pada tim superhero DC Comics dengan nama yang sama yang ditayangkan perdana pada 15 Februari 2019, di DC Universe. Ini adalah spin-off Titans, dengan April Bowlby, Brendan Fraser, dan Matt Bomer mengulangi peran mereka, serta Diane Guerrero, Alan Tudyk, Joivan Wade dan Timothy Dalton bergabung dengan para pemain. Pembuatan film dimulai di Georgia pada akhir Agustus 2018, dan musim pertama terdiri dari 15 episode. </item>
+        <item> Dragon Ball (Jepang: ド ラ ゴ ン ボ ー ル Hepburn: Doragon Bōru), kadang-kadang ditata sebagai Dragonball, adalah waralaba media Jepang yang dibuat oleh Akira Toriyama pada tahun 1984. Manga awal, yang ditulis dan diilustrasikan oleh Toriyama, diserialkan dalam Weekly Shonen Jump dari 1984 hingga 1995, dengan 519 bab individual dikumpulkan ke dalam 42 volume tankōbon oleh penerbitnya Shueisha. Dragon Ball pada awalnya terinspirasi oleh novel klasik Cina Journey to the West, serta film-film seni bela diri Hong Kong. Serial ini mengikuti petualangan protagonis, Son Goku, dari masa kecilnya hingga dewasa saat ia berlatih seni bela diri dan menjelajahi dunia untuk mencari tujuh bola yang dikenal sebagai Dragon Balls, yang memanggil naga yang menginginkan keinginan ketika berkumpul. Sepanjang perjalanannya, Goku membuat beberapa teman dan bertarung dengan berbagai penjahat, banyak di antaranya juga mencari Dragon Balls. </item>
+        <item> Fairy Tail (Jepang: フ ェ ア リ ー テ イ ep Hepburn: Fearī Teiru) adalah seri manga Jepang yang ditulis dan diilustrasikan oleh Hiro Mashima. Ia diserialkan di Majalah Shansen Weekly Kodanshas dari 2 Agustus 2006 hingga 26 Juli 2017, dengan masing-masing bab dikumpulkan dan diterbitkan dalam 63 volume tankōbon. Kisah ini mengikuti petualangan Natsu Dragneel, anggota guild Fairy Tail yang populer, ketika ia mencari dunia fiksi Tanah Bumi untuk mencari Igneel naga. </item>
+        <item> Family Guy adalah sitkom animasi Amerika yang dibuat oleh Seth MacFarlane untuk Fox Broadcasting Company. Seri ini berpusat pada Griffin, sebuah keluarga yang terdiri dari orang tua Peter dan Lois; anak-anak mereka, Meg, Chris, dan Stewie; dan anjing peliharaan antropomorfik mereka, Brian. Pertunjukan ini terletak di kota fiksi Quahog, Rhode Island, dan menunjukkan banyak humornya dalam bentuk lelucon lucu metafik yang sering mencerca budaya Amerika. </item>
+        <item> The Flash adalah serial televisi superhero Amerika yang dikembangkan oleh Greg Berlanti, Andrew Kreisberg, dan Geoff Johns, ditayangkan di The CW. Ini didasarkan pada karakter DC Comics Barry Allen / Flash, seorang pejuang kejahatan super berkostum dengan kekuatan untuk bergerak pada kecepatan manusia super. Ini adalah spin-off dari Arrow, ada di alam fiksi yang sama. Serial ini mengikuti Barry Allen, yang diperankan oleh Grant Gustin, penyelidik TKP yang mendapatkan kecepatan super-manusia, yang ia gunakan untuk memerangi penjahat, termasuk yang lain yang juga mendapatkan kemampuan manusia super. </item>
+        <item> Game of Thrones adalah serial televisi drama fantasi Amerika yang dibuat oleh David Benioff dan D. B. Weiss untuk HBO. Ini adalah adaptasi dari A Song of Ice and Fire, seri novel fantasi George R. R. Martins, yang pertama adalah A Game of Thrones. Acara ini diproduksi dan difilmkan di Belfast dan di tempat lain di Inggris. Lokasi syuting juga termasuk Kanada, Kroasia, Islandia, Malta, Maroko, dan Spanyol. [1] Serial ini ditayangkan perdana di HBO di Amerika Serikat pada 17 April 2011, dan berakhir pada 19 Mei 2019, dengan 73 episode disiarkan selama delapan musim. </item>
+        <item> Gotham adalah serial televisi drama kriminal Amerika yang dikembangkan oleh Bruno Heller dan didasarkan pada karakter yang diterbitkan oleh DC Comics dan muncul dalam waralaba Batman, terutama James James dan Bruce Wayne. Danny Cannon mengarahkan pilot, dan dia adalah produser eksekutif bersama dengan Heller. Serial ini dibintangi Ben McKenzie sebagai James Gordon muda. Ini ditayangkan perdana di Fox pada 22 September 2014 dan berakhir pada 25 April 2019. </item>
+        <item> Grey Anatomy adalah serial televisi drama medis Amerika yang ditayangkan perdana pada tanggal 27 Maret 2005, di American Broadcasting Company (ABC) sebagai pengganti pertengahan musim. Seri fiksi berfokus pada kehidupan magang bedah, penduduk, dan dokter yang hadir, ketika mereka berkembang menjadi dokter berpengalaman sambil mencoba untuk mempertahankan kehidupan pribadi dan hubungan. Judulnya adalah lakon di Greys Anatomy, buku teks anatomi manusia klasik yang pertama kali diterbitkan pada tahun 1858 di London dan ditulis oleh Henry Gray. Shonda Rhimes mengembangkan pilot dan terus menulis untuk seri; dia juga salah satu produser eksekutif, bersama dengan Betsy Beers, Mark Gordon, Krista Vernoff, Rob Corn, Mark Wilding, dan Allan Heinberg. Meskipun seri ini dibuat di Seattle (di Rumah Sakit Seattle Grace fiksi, yang kemudian diganti namanya), film ini difilmkan terutama di Los Angeles, California. </item>
+        <item> Hanna adalah serial televisi web drama aksi Amerika, berdasarkan film 2011 dengan nama yang sama, di Amazon Video. Serial ini dibuat dan ditulis oleh David Farr, disutradarai oleh Sarah Adina Smith, dan dibintangi oleh Esme Creed-Miles, Joel Kinnaman, dan Mireille Enos. Episode pertama tersedia di Amazon Video sebagai pratinjau terbatas waktu pada 3 Februari 2019. Musim penuh delapan episode pertama dirilis pada 29 Maret 2019. Pada April 2019, Amazon memperbarui seri untuk musim kedua. </item>
+    </string-array>
+
+    <array name="tvshow_posters">
+        <item>@drawable/poster_arrow</item>
+        <item>@drawable/poster_doom_patrol</item>
+        <item>@drawable/poster_dragon_ball</item>
+        <item>@drawable/poster_fairytail</item>
+        <item>@drawable/poster_family_guy</item>
+        <item>@drawable/poster_flash</item>
+        <item>@drawable/poster_god</item>
+        <item>@drawable/poster_gotham</item>
+        <item>@drawable/poster_grey_anatomy</item>
+        <item>@drawable/poster_hanna</item>
+    </array>
+
+    <string-array name="tvshow_releasedates">
+        <item>10 Oktober 2012</item>
+        <item>15 Februari 2019</item>
+        <item>1986</item>
+        <item>12 Oktober 2009</item>
+        <item>31 Januari 1999</item>
+        <item>7 Oktober 2014</item>
+        <item>17 April 2011</item>
+        <item>22 September 2014</item>
+        <item>27 Maret 2005</item>
+        <item>3 Februari 2019</item>
+    </string-array>
+
+    <string-array name="tvshow_runningtimes">
+        <item>40–43 menit</item>
+        <item>45–60 menit</item>
+        <item>30–33 menit</item>
+        <item>30 menit</item>
+        <item>20–23 menit</item>
+        <item>42–45 menit</item>
+        <item>50–82 menit</item>
+        <item>42–49 menit</item>
+        <item>43 menit</item>
+        <item>47–55 menit</item>
+    </string-array>
+
+    <string-array name="tvshow_distributedby">
+        <item>Warner Bros. Television Distribution</item>
+        <item>Warner Bros. Television Distribution</item>
+        <item>Japan</item>
+        <item>Animax Asia</item>
+        <item>20th Television</item>
+        <item>Warner Bros. Television Distribution</item>
+        <item>Warner Bros. Television Distribution</item>
+        <item>Warner Bros. Television Distribution</item>
+        <item>Walt Disney Television</item>
+        <item>Prime Video</item>
+    </string-array>
+
+    <string name="releasedate">Tanggal Rilis</string>
+    <string name="durationtime">Waktu Durasi</string>
+    <string name="distributedby">Didistribusikan oleh</string>
+    <string name="description">Deskripsi</string>
+
+</resources>
