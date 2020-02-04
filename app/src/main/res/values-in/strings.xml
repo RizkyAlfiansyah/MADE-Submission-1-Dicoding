@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MADE-SUB3 (INA)</string>
+    <string name="app_name">MADE-SUB4</string>
     <string name="setting">Setting</string>
     <string name="bottom_menu_movies">Film</string>
     <string name="bottom_menu_tvshow">Acara TV</string>
@@ -8,11 +8,20 @@
     <string name="releasedate">Tanggal Rilis</string>
     <string name="runningtime">Waktu Durasi</string>
     <string name="description">Deskripsi Film</string>
-    <string name="detailfilm">Detail Film</string>
+    <string name="detailfilm">DetaiL</string>
 
     <string name="field_title">Judul</string>
     <string name="field_vote">Nilai</string>
     <string name="title_movies">Film</string>
     <string name="title_tv_shows">Acara Tv</string>
-    <string name="data_language">ina</string>
+    <string name="data_language">Indonesia</string>
+    <string name="bottom_menu_favorite">Favorit</string>
+    <string name="reload_data">Muat Ulang</string>
+
+    <string name="title_favorite">Favorit</string>
+    <string name="error_no_network_connection">Tidak Ada Sambungan Jaringan</string>
+    <string name="not_available">Tidak Tersedia</string>
+    <string name="favorite_add_success">sukses menambahkan</string>
+    <string name="favorite_remove_success">sukses menghapus</string>
+    <string name="poster">Gambar Film</string>
 </resources>

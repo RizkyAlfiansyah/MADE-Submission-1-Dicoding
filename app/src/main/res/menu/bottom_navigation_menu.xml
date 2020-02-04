@@ -4,16 +4,22 @@
     >
 
     <item
-        android:id="@+id/movies"
-        android:enabled="true"
-        android:title="@string/bottom_menu_movies"
-        android:icon="@drawable/baseline_movie_24"
-        app:showAsAction="ifRoom"/>
+            android:id="@+id/navigation_movies"
+            android:enabled="true"
+            android:title="@string/bottom_menu_movies"
+            android:icon="@drawable/baseline_movie_24"
+            app:showAsAction="ifRoom"/>
 
     <item
-        android:id="@+id/tvshows"
+            android:id="@+id/navigation_tvshows"
+            android:enabled="true"
+            android:title="@string/bottom_menu_tvshow"
+            android:icon="@drawable/baseline_live_tv_24"
+            app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/navigation_favorite"
         android:enabled="true"
-        android:title="@string/bottom_menu_tvshow"
-        android:icon="@drawable/baseline_live_tv_24"
+        android:title="@string/bottom_menu_favorite"
+        android:icon="@drawable/ic_favorite_white_24dp"
         app:showAsAction="ifRoom"/>
 </menu>

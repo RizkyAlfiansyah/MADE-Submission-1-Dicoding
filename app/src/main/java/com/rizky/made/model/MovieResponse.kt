@@ -2,7 +2,6 @@ package com.rizky.made.model
 
 import android.os.Parcelable
 import com.google.gson.annotations.SerializedName
-import com.rizky.made.model.Movie
 import kotlinx.android.parcel.Parcelize
 
 @Parcelize

@@ -1,6 +1,5 @@
 package com.rizky.made.adapter
 
-import android.annotation.SuppressLint
 import android.content.Intent
 import android.view.LayoutInflater
 import android.view.View
@@ -8,21 +7,14 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.rizky.made.BuildConfig.IMAGE_URL
-import com.rizky.made.view.MainActivity
+import com.rizky.made.view.DetailMovieActivity
 import com.rizky.made.R
 import com.rizky.made.model.Movie
-import com.rizky.made.view.DetailMovieActivity
+import com.rizky.made.view.MainActivity
 import kotlinx.android.synthetic.main.inflater_film.view.*
 
-class MovieAdapter: RecyclerView.Adapter<MovieAdapter.ListViewHolder>() {
-
-    private val movieList = ArrayList<Movie>()
-
-    fun setData(items: ArrayList<Movie>) {
-        movieList.clear()
-        movieList.addAll(items)
-        notifyDataSetChanged()
-    }
+class MovieAdapter internal constructor(private var movieList: ArrayList<Movie>) :
+    RecyclerView.Adapter<MovieAdapter.ListViewHolder>() {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ListViewHolder {
         val view =
@@ -37,7 +29,6 @@ class MovieAdapter: RecyclerView.Adapter<MovieAdapter.ListViewHolder>() {
     }
 
     class ListViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
-        @SuppressLint("StringFormatInvalid")
         fun bind(movie: Movie) {
             with(itemView) {
                 tv_film_title.text = movie.title

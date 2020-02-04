@@ -7,17 +7,24 @@ import android.provider.Settings
 import android.view.Menu
 import android.view.MenuItem
 import com.rizky.made.R
+import com.rizky.made.view.fragments.FavoriteFragment
 import com.rizky.made.view.fragments.MovieFragment
 import com.rizky.made.view.fragments.TvShowFragment
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
+
     companion object {
+        const val MOVIE_STATE = "movie"
+        const val SUCCESS_STATE = "success"
+        const val ERROR_MESSAGE_STATE = "error_message"
         const val DATA_EXTRA = "data"
         const val BUNDLE_EXTRA = "bundle"
         const val MOVIE = "movie"
         const val TVSHOW = "tvshow"
+        const val FAVORITE = "favorite"
         const val INSTANCE = "instance"
+        const val FAVORITE_STATE = "favorite"
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -26,25 +33,31 @@ class MainActivity : AppCompatActivity() {
 
         bottom_navigation.setOnNavigationItemSelectedListener { item ->
             when (item.itemId) {
-                R.id.movies -> {
+                R.id.navigation_movies -> {
                     loadMovieFragment(MOVIE)
                 }
-                R.id.tvshows -> {
+                R.id.navigation_tvshows -> {
                     loadTvFragment(TVSHOW)
+                }
+                R.id.navigation_favorite -> {
+                    loadFavFragment(FAVORITE)
                 }
             }
             true
         }
 
         if (savedInstanceState == null) {
-            bottom_navigation.selectedItemId = R.id.movies
+            bottom_navigation.selectedItemId = R.id.navigation_movies
         } else {
             when (savedInstanceState.getString(INSTANCE)) {
                 MovieFragment::class.java.simpleName -> {
-                    bottom_navigation.selectedItemId = R.id.movies
+                    bottom_navigation.selectedItemId = R.id.navigation_movies
                 }
                 TvShowFragment::class.java.simpleName -> {
-                    bottom_navigation.selectedItemId = R.id.tvshows
+                    bottom_navigation.selectedItemId = R.id.navigation_tvshows
+                }
+                FavoriteFragment::class.java.simpleName -> {
+                    bottom_navigation.selectedItemId = R.id.navigation_favorite
                 }
             }
         }
@@ -72,6 +85,18 @@ class MainActivity : AppCompatActivity() {
         supportFragmentManager
             .beginTransaction()
             .replace(R.id.mainFrame, movieFragment, MovieFragment::class.java.simpleName)
+            .commit()
+    }
+
+    private fun loadFavFragment(type: String) {
+        val favoriteFragment = FavoriteFragment()
+        val bundle = Bundle()
+        bundle.putString(BUNDLE_EXTRA, type)
+        favoriteFragment.arguments = bundle
+
+        supportFragmentManager
+            .beginTransaction()
+            .replace(R.id.mainFrame, favoriteFragment, FavoriteFragment::class.java.simpleName)
             .commit()
     }
 

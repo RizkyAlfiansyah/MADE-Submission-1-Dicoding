@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MADE-SUB3 (EN-US)</string>
+    <string name="app_name">MADE-SUB4</string>
     <string name="setting">Setting</string>
     <string name="bottom_menu_movies">Movies</string>
     <string name="bottom_menu_tvshow">TV Show</string>
@@ -14,4 +14,14 @@
     <string name="title_movies">Movie</string>
     <string name="title_tv_shows">Tv Show</string>
     <string name="data_language">en-US</string>
+
+
+    <string name="bottom_menu_favorite">Favorite</string>
+    <string name="reload_data">Reload</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="error_no_network_connection">No Connection Network</string>
+    <string name="not_available">Not Available</string>
+    <string name="favorite_add_success">add success</string>
+    <string name="favorite_remove_success">remove success</string>
+    <string name="poster">Movie Poster</string>
 </resources>
